@@ -1,0 +1,4 @@
+Home Work
+
+Install JDk in your systems and run the first Java Program through commands
+as well as install the VS code and run the same program through VS code.
