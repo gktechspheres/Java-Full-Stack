@@ -1,0 +1,11 @@
+Topics Covered
+
+1. What is Java?
+2. History of Java?
+3. Features of Java?
+4. Difference between GUI and CUI?
+5. What is Application and what are the diff types of Applications?
+6. How to install JDK and set path in our system?
+7. How to write first Java program?
+8. How to compile and run the first Java Porgram?
+9. How to install VS Code and what are the extensions required to run the Java Program?

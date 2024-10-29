@@ -1,9 +1,12 @@
 Topics Covered
 
-1. Why Java ?
-2. Why do we need to learn Java In this AI Era?
-3. Does AI replaces our Job?
-4. What is programming and program and diff between these two words?
-5. How many types of jobs are there?
-6. What is diff between service and product based job and which is best?
-7. what is B2B and B2C?
+1. Intro to Peer-To-Peer Learning System ?
+2. About Presnt Job market and what should we do to meet the requirements of the present jon market?
+3. Why should we learn Java over other programming languages?
+4. Why system understands only 0 and 1?   
+5. Why do we need to learn Java In this AI Era?
+6. Does AI replaces our Job?
+7. What is programming and program and diff between these two words?
+8. How many types of jobs are there?
+9. What is diff between service and product based job and which is best?
+10. what is B2B and B2C?
