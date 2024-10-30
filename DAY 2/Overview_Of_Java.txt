@@ -9,3 +9,9 @@ Topics Covered
 7. How to write first Java program?
 8. How to compile and run the first Java Porgram?
 9. How to install VS Code and what are the extensions required to run the Java Program?
+
+Refference For Installing and Running FIrst Java Program Through Command Prompt :
+        https://www.youtube.com/watch?v=XX7P-myxnc4
+
+Refference For Installing and Runing First Java Program Through VS Code:
+        https://www.youtube.com/watch?v=-AbhwXjALok
