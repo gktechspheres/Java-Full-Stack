@@ -1,0 +1,7 @@
+1. Write a java program that demonstrates all the types of Variables in Java.
+2. Write a java program that demonstrates all the Data Types in Java.
+3. What are comments in Java and write a program to demonstrate the comments.
+4. write a program to swap two variables.
+5. Write a program to swap two variables without using another varible.
+6. write a Java program that shows variable widening and Narrowing.
+7. Why char uses 2 byte in java and what is \u0000 ?  - source : https://www.javatpoint.com/unicode-system-in-java

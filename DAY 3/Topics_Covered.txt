@@ -1,0 +1,7 @@
+Topics Covered
+
+1. What is Variable?
+2. Types of Variables?
+3. What is a Class and Object?
+4. What is the difference between the static variable and instance variable?
+4. What is a Data Type and Types of Data Types?
