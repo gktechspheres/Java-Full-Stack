@@ -6,6 +6,12 @@ public class Variables {
     // Instance variable
     int instanceVariable = 30;
 
+    public void printLocalVariable(){
+        // Local Variable
+        int localVariableInMethod = 40;
+        System.out.println("Value of Local Variable in a Method: "+localVariableInMethod);
+    } 
+
     public static void main(String[] args) {
         // Local variable
         int localVariable = 10;
@@ -18,5 +24,8 @@ public class Variables {
         Variables obj = new Variables();
         // Accessing instance variable
         System.out.println("Value of instanceVariable: " + obj.instanceVariable);
+
+        // Printing a Local variable in a method
+        obj.printLocalVariable();
     }
 }
